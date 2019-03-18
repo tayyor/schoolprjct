@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "roadzoft",
+  "private_key_id": "49a702913d2814de529b7a42e965fe31e6c01f29",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCbc0Jy7oCwWQVk\npubvVyAxAwWDGsK2E0MgTQQPYqpqwEAqpL4AcLn8vLhRhaOCv1Y3ZzcKjvgjmbFf\nGE04sf7gfS1I1TqIjmeDscJItSSKlDEZ29FZ13bn/xR4zay5KICw6AxYyd9AekIi\nSNQmsSRL1w7ATi4WFbmm+mbhf7xQmdrL+imVcQ/vabpKlpjYxULu6rJls/7jSoir\npYo/njWEdE9D62WqAKGyQIIe6wvgw2HOwZzIlGytVYBjyKjKSjU5zGhxE0LHRKxD\nUCycu+egsY4SLnTcVUBUtaO7w0K9kDhLrQxkSV4bRdkOfbyNQKbfQwvQ3QxUWMmK\nBbZXUlypAgMBAAECggEAR8TnpWuDA6geCtHZ5h+KD8bO2TBWPDzZbYTRPo81kfKv\nzWBhDo/89nhk+tJh4wAWvJ6NNXU7kCgp0XdFU8suGxP//9PeYeSpWw6LXgkv1UFF\nCCTKW5nUXpkQqROATr4p6ENCTA3r4ndvqCeKt1Bqqw8f0t5lfbHLFJIgRLU2Stl9\nWIIeOjJukL6/70MtYdakZJunuVngP1J/VqwM775eJjWQxo2XzZNa1UeWRT1atEO9\nbpHSUrOGIpbw0ILQNYI5xakzhyIcRrtVXlg2lghJzvPj0DUDe077Ed+QknQcau/J\n6TMTpQ+QW7r75vXH9bk8uZqsZmbPpw8KXUyYqsYMfwKBgQDRCz+yn/tWDBMAnqXD\nuDkAWNYI8dkBpjrIbxuFUIr7PbtIhZqG3CgQ6KyY0dawtrI20A/Y8MtymGDELXKw\n3Z6AcNYaTWCVGrOINsbKUJGmJ/mA5lIYxHMGafj1SSeucRwqAJCR9QBXwL3v+B+N\nn3D4xNgCodw3yCPR9X4ne/COJwKBgQC+Xi/QEZCkQ+PGyjU/tOOsmeEQ0SjI3XL9\nTwbX7cptqFLfMEdQrxCGhxTcUdEDd9E3S03S4bK1rRD3FiZybtF0nIj/6+tnbiwp\nT138Px6lD4ELzdnd0H8rU+K4pIdTT78+RRzaEsyoQnLlrrJ+t7hiStXcXMLfPBLo\nvuWZYQNQrwKBgAETLruraO5zV3GsXyvXeauPyWH4ZGZGxYycTabs2BocoiboUPga\nj7YujBypD5KPDfGMNlimPFWVhQHdPfa83QDKE7/E4BdEMOIlbfZCXc1d7UGFbayk\n7fZ9ewM/4g1alYt9v0CQ4vSQkCl4vCjNRhZxZK72yBwdUlnVClYHpCAHAoGACQ9U\neTOMzbSJb5mKBTknqLw+EN3TchPP+Cw9qCMiAiwDnamfi0B5qd1d6cpfByo5o8cK\nsiGZrrnI1+mO9N0/TKxyfLOOpYKByYmEcI/UdoiRXK10U/ErTDWW0bDK2/UspdsG\nL367jLp022eACTXXKZ5kJTOo9pTWVYtYQ/9w9/MCgYAr7hIux5OP3YW8Ebum7XPI\nkJ1CDFKGVYyPR+rlxErKS9j5yJc6Tzcj01vKNFKPhehRXT3iLVhsVGuh8Y7AKIAh\nbr/aclDmoujO3H0hY3qg24QpfO45ECqW4AxaLCg+dXONGl6aLdoXbPbfaAEr1DiR\n8A+37ek9PzB7P2BC3o1JZg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-mwhbm@roadzoft.iam.gserviceaccount.com",
+  "client_id": "102818104940977541061",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-mwhbm%40roadzoft.iam.gserviceaccount.com"
+}
